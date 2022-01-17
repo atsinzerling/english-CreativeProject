@@ -1,0 +1,100 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+#body-align{
+    text-align: center;
+}
+#body-align2{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+p1{
+    font-size: 18px;
+}
+p2{
+    font-size: 16px;
+    font-style: italic;
+}
+p3{
+    font-size: 20px;
+}
+.main-text{
+    border: 1px solid black;
+    width: 50%;
+    text-align: left;
+    padding: 25px 180px; 
+    margin: auto;
+}
+.point{
+    height: 10px;
+    width: 10px;
+    /* margin-top: 50px; */
+}
+.menu-links{
+    font-size: 19px;
+    /* color: #edebeb; */
+    margin: 0px 10px;
+    text-decoration: none;
+}
+.menu-links:hover {
+    text-decoration: underline;
+}
+.menu-margin{
+    margin-bottom: 60px;
+    margin-top: 20px;
+}
+.photo-block{
+    margin: 30px;
+}
+.photo-be{
+    width: 450px;
+}
+.photo-m1{
+    width: 380px;
+}
+.photo-m2{
+    width: 450px;
+}
+
+
+/*
+now for the main page, maybe
+*/
+
+.marg{
+    margin: 0px 18% 0px 18%;
+    text-align: left;
+}
+.book-photo{
+    height: 304px;
+    width: 200px;
+    border-radius: 4px;
+}
+.book-photo:hover{
+    box-shadow:0px 0px 20px #828282;
+}
+
+#dicp{
+    margin-left: 18%;
+    width:35%;
+    margin-top: 15px;
+}
+#ww1{
+    float:right;
+}
+#ww2{
+    float:left;
+}
+p1m{
+    font-size: 20px;
+}
+p2m{
+    font-size: 18px;
+    font-style: italic;
+}
+p3m{
+    font-size: 21px;
+}
